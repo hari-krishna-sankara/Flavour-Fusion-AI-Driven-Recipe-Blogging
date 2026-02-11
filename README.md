@@ -48,9 +48,9 @@ Users can customize the blog post further if desired and export or copy the cont
 
 To accomplish this, we have to complete all the activities listed below,
 
-1. Initialize Gemini 1.5 Flash:
+1. Initialize Gemini 2.5 Flash:
 
-2. Generate Gemini 1.5 Flash API
+2. Generate Gemini 2.5 Flash API
 
 3. Initialize the pre-trained model
 
